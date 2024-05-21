@@ -35,12 +35,6 @@ Here are a few of my projects that I'm particularly proud of:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevStatic&show_icons=true&theme=radical)
 
-## Support
-
-If you like my work, consider buying me a coffee! 😊
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)][(https://buymeacoffee.com/kevstatic)]
-
 ---
 
 *Last updated: [21/05/2024]*
