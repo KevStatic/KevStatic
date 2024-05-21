@@ -39,7 +39,7 @@ Here are a few of my projects that I'm particularly proud of:
 
 If you like my work, consider buying me a coffee! 😊
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/yourusername](https://buymeacoffee.com/kevstatic))
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)][(https://buymeacoffee.com/kevstatic)]
 
 ---
 
