@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, I'm **Kevalya Shah**! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a little bit about me:
+Hi, I'm **Kev**! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a little bit about me:
 
 - 🌱 I’m currently learning **Next.js**
 - 💼 I’m currently an intern at **WeMod Academy** as a **Lead Developer**
