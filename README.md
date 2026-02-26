@@ -33,7 +33,7 @@ Here are a few of my projects that I'm particularly proud of:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevStatic&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KevStatic&theme=dark)](https://git.io/streak-stats)
 
 ---
 
