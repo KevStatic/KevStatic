@@ -8,9 +8,9 @@
 
 Hi, I'm **Kev**! I'm a passionate developer with a love for creating innovative solutions and learning new technologies. Here's a little bit about me:
 
-- 🌱 I’m currently learning **Next.js**
-- 💼 I’m currently looking out for intenships!
-- 🤝 I’m looking to collaborate on **Software development**
+- 🌱 I’m currently learning **C#, DOTNET, ASP.NET**
+- 💼 I’m currently looking out for projects!
+- 🤝 I’m looking to collaborate on **Software development, AI/ML projects, Software Architecture management, Debugging and Testing**
 - 📫 How to reach me: **kev.static11@gmail.com**
 
 ## My Skills
@@ -37,5 +37,5 @@ Here are a few of my projects that I'm particularly proud of:
 
 ---
 
-*Last updated: [21/05/2024]*
+*Last updated: [02/03/2026]*
 
